@@ -1,4 +1,4 @@
-# Production_Line_Bottles_Counting_YOLOv8
+# Production Line Bottles Counting YOLOv8
 
 Bottles detection and counting in a production line with YOLO v8 nano segmentation.
 
